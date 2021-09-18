@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist');
+body{
+  background-color: #33e9ff;
+}
+div.bio{
+  border: solid;
+  font-family: 'Urbanist';
+  max-width: 50%;
+  margin: 10pt;
+}
